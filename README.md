@@ -1,4 +1,4 @@
-# AWS S3 Bucket Replication Policy Setup (Manual Console Guide)
+# AWS S3 Bucket Replication Policy Setup 
 
 This repository provides the complete, step-by-step instructions to configure **Amazon S3 Replication** between two buckets using the AWS Management Console.
 
