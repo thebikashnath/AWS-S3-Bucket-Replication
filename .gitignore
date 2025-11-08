@@ -1,0 +1,9 @@
+# General
+.DS_Store
+.env
+# Windows
+Thumbs.db
+# Credentials/Private Keys 
+*.pem
+*.key
+credentials
